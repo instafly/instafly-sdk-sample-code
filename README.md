@@ -6,6 +6,14 @@ instafly sample code in popular programming languages
 ```
 {
     "landmarkName": "Saint Joseph's Oratory",
+        "lmLocation": [
+        "Boulevard Laird",
+        "Mont-Royal",
+        "Communauté-Urbaine-de-Montréal",
+        "Québec",
+        "Canada",
+        "CA"
+    ],
     "lmLatitude": "45.515248",
     "lmLongitude": "-73.643164",
     "confidence": 47.1192,
